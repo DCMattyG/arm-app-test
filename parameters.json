@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "_artifactsLocation": {
-            "value": "https://raw.githubusercontent.com/DCMattyG/azure-projects/master/new-app/"
+            "value": "https://raw.githubusercontent.com/DCMattyG/arm-app-test/master/"
           },
         "siteName": {
             "value": "offtherails"
